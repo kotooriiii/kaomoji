@@ -33,7 +33,7 @@ Unleash the power of Kaomojis in your Discord chats and let your kaomojis speak 
 
 3. **Usage**: Simply click on the moon logo next to the chat bar to access the Kaomoji menu. Choose your desired Kaomoji, and it will be seamlessly inserted into your message.
 
-![Moon Logo to Access Kaomojis](![image](https://github.com/kotooriiii/kaomoji/assets/8682236/03bf4488-7965-4478-8d58-a71ab9398ddb))
+![image](https://github.com/kotooriiii/kaomoji/assets/8682236/e16b016b-1391-4d3a-a4d2-28c8e3dafaa0)
 
 ## Contribution
 
