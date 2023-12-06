@@ -89,7 +89,7 @@ function embedded(rootProps) {
 } 
 
 function PickerModal({ rootProps }) {
-  return /* @__PURE__ */ BdApi.React.createElement(ModalRoot, { ...rootProps }, /* @__PURE__ */ BdApi.React.createElement(ModalHeader, { className: cl("modal-header") }, /* @__PURE__ */ BdApi.React.createElement(FormTitle, { tag: "h2" }, "Emojis"), /* @__PURE__ */ BdApi.React.createElement(ModalCloseButton, { onClick: rootProps.onClose })), /* @__PURE__ */ BdApi.React.createElement(ModalContent, { className: cl("modal-content") }, embedded(rootProps)), /* @__PURE__ */ BdApi.React.createElement(ModalFooter, null,));
+  return /* @__PURE__ */ BdApi.React.createElement(ModalRoot, { ...rootProps }, /* @__PURE__ */ BdApi.React.createElement(ModalHeader, { className: cl("modal-header") }, /* @__PURE__ */ BdApi.React.createElement(FormTitle, { tag: "h2" }, "Kaomojis"), /* @__PURE__ */ BdApi.React.createElement(ModalCloseButton, { onClick: rootProps.onClose })), /* @__PURE__ */ BdApi.React.createElement(ModalContent, { className: cl("modal-content") }, embedded(rootProps)), /* @__PURE__ */ BdApi.React.createElement(ModalFooter, null,));
 }
 function ChatBarComponent() {
   return /* @__PURE__ */ BdApi.React.createElement(Tooltip, { text: "Kaomojis" }, ({ onMouseEnter, onMouseLeave }) => /* @__PURE__ */ BdApi.React.createElement("div", { style: { marginTop: 13 } }, /* @__PURE__ */ BdApi.React.createElement(
