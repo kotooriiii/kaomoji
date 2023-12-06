@@ -39,7 +39,9 @@ Unleash the power of Kaomojis in your Discord chats and let your kaomojis speak 
 
 ## Common Issue: Moon Icon Not Rendering
 
+<span style="background-color: #f0f8ff; color: #000000;">
 A common problem users may encounter is that the moon icon does not appear immediately. If you find that the moon icon is not visible, try clicking on another text channel or server channel. This action often triggers the proper rendering of the moon icon, allowing you to access the Kaomoji menu seamlessly.
+</span>
 
 ## Contribution
 
