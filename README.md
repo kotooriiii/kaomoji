@@ -55,6 +55,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support or inquiries, please contact us at [support@example.com](mailto:support@example.com).
+For support or inquiries, please contact me at [carlosmiranda0643@gmail.com](mailto:carlosmiranda0643@gmail.com).
 
 ---
